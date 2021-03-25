@@ -1,11 +1,16 @@
 _repo: Patents-and-How-to-Get-One-A-Practical-Handbook_64666
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64666-h/images/cover.jpg
 creator:
   author:
     agent_name: Commerce, U.S. Department of
     gutenberg_agent_id: '53003'
     url: http://www.gutenberg.org/2009/agents/53003
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64666#Patents-and-How-to-Get-One-A-Practical-Handbook
 gutenberg_issued: '2021-03-01'
 gutenberg_type: Text
 identifiers:
